@@ -4,6 +4,11 @@
 
 - Identificamos a melhor janela real de hover (velocidade < 0,2 m/s, altitude estável) entre **~113,0 s e ~117,8 s**, dentro da faixa relatada (1:50–2:00), do `log_250_2026-9-4-15-12-16`.
 - **Não há nenhum dado elétrico no log**: `BATT_MONITOR = 0` (e BATT2–9 também), mensagem `BAT` com 0 registros, `ESC.Volt`/`ESC.Curr` sempre zerados.
+- <img width="1920" height="1080" alt="Screenshot from 2026-09-23 09-02-52" src="https://github.com/user-attachments/assets/ba50aa8e-b559-499b-94c0-2924593e3f04" />
+   https://ardupilot.org/copter/docs/parameters.html#batt-monitor-battery-monitoring
+   https://holybro.com/collections/power-modules-pdbs/products/pm02-v3-12s-power-module
+   https://docs.holybro.com/power-module-and-pdb/power-module/analog-power-module-setup
+
 
 ## 2. Necessidade de novos ensaios
 
